@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session files",
+    "description": "Adds a Files tab to the conversation: every file this Session changed, opening its content in the right sidebar."
+  }
+}

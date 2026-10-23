@@ -1,0 +1,4 @@
+# dsh-session-files bundle patch：只插入一条 Host 行（路由），客户端 UI 由同一包的 ./client 提供。
+- insert:
+    - id: dsh-session-files
+      name: dsh-session-files

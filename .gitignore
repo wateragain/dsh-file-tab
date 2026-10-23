@@ -1,0 +1,10 @@
+# 依赖与产物
+node_modules/
+preview/preview.bundle.js
+.npm-cache/
+
+# 本机调试
+.chrome*/
+*.log
+.DS_Store
+Thumbs.db
